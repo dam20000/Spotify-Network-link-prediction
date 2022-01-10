@@ -1,0 +1,901 @@
+source,target,weight
+Polo & Pan,Papooz,0.56624375
+Polo & Pan,Lewis OfMan,0.69002125
+Polo & Pan,Kazy Lambist,0.67734625
+Polo & Pan,Agar Agar,0.66294875
+Polo & Pan,Vendredi sur Mer,0.56422125
+Polo & Pan,Bleu Toucan,0.68084125
+Polo & Pan,Her,0.6550625
+Polo & Pan,Pépite,0.66779875
+Polo & Pan,Claire Laffut,0.65937375
+Polo & Pan,Flavien Berger,0.552994
+Polo & Pan,French 79,0.66119525
+Polo & Pan,L'Impératrice,0.64650375
+Polo & Pan,The Blaze,0.65622925
+Polo & Pan,Fakear,0.68502625
+Polo & Pan,Møme,0.5670095
+Polo & Pan,Muddy Monk,0.54867375
+Polo & Pan,Les Gordon,0.67806675
+Polo & Pan,Alice et Moi,0.57953375
+Polo & Pan,Voyou,0.55959875
+Polo & Pan,Juniore,0.58051325
+Rilès,KIKESA,0.871415
+Rilès,Lorenzo,0.874625
+Rilès,Lonepsi,0.8518525
+Rilès,Spider ZED,0.86252
+Rilès,Bigflo & Oli,0.38537
+Rilès,Caballero & JeanJass,0.87672
+Rilès,Lord Esperanza,0.8785875
+Rilès,Casseurs Flowters,0.86977875
+Rilès,Roméo Elvis,0.8711825
+Rilès,PRIME,0.8928425
+Rilès,Columbine,0.8736025
+Rilès,Scylla,0.86632
+Rilès,L'Or du Commun,0.88588
+Rilès,Sopico,0.864285
+Rilès,Lomepal,0.8863575
+Rilès,Chilla,0.37665
+Rilès,Davodka,0.86603
+Rilès,Sneazzy,0.87107875
+Rilès,Hugo TSR,0.88732
+Rilès,Swing,0.8733725
+Young Thug,NAV,0.671313036
+Young Thug,Quavo,0.727305357
+Young Thug,Don Toliver,0.530313393
+Young Thug,Gunna,0.757315357
+Young Thug,21 Savage,0.592121964
+Young Thug,A$AP Mob,0.582025714
+Young Thug,Huncho Jack,0.649933036
+Young Thug,Migos,0.576035714
+Young Thug,Metro Boomin,0.593124464
+Young Thug,A$AP Ferg,0.573455714
+Young Thug,Rae Sremmurd,0.650720536
+Young Thug,Lil Yachty,0.735037857
+Young Thug,Desiigner,0.509629643
+Young Thug,Kodak Black,0.677729286
+Young Thug,88GLAM,0.596894464
+Young Thug,Famous Dex,0.499212143
+Young Thug,Mike WiLL Made-It,0.661729286
+Young Thug,Young Nudy,0.590060714
+Young Thug,Lil Uzi Vert,0.598625714
+Young Thug,Sheck Wes,0.500182143
+A Boogie Wit da Hoodie,PnB Rock,0.85708125
+A Boogie Wit da Hoodie,YNW Melly,0.699510833
+A Boogie Wit da Hoodie,Quavo,0.865715
+A Boogie Wit da Hoodie,Lil Yachty,0.8723725
+A Boogie Wit da Hoodie,Fivio Foreign,0.711288333
+A Boogie Wit da Hoodie,Lil Tjay,0.530164167
+A Boogie Wit da Hoodie,Yungeen Ace,0.696803333
+A Boogie Wit da Hoodie,Sheff G,0.378075
+A Boogie Wit da Hoodie,Flipp Dinero,0.885405
+A Boogie Wit da Hoodie,Tee Grizzley,0.698535833
+A Boogie Wit da Hoodie,YoungBoy Never Broke Again,0.546439167
+A Boogie Wit da Hoodie,YK Osiris,0.717898333
+A Boogie Wit da Hoodie,NAV,0.87059875
+A Boogie Wit da Hoodie,Quando Rondo,0.699670833
+A Boogie Wit da Hoodie,Gunna,0.88056
+A Boogie Wit da Hoodie,Tay-K,0.690234583
+A Boogie Wit da Hoodie,Speaker Knockerz,0.87648
+A Boogie Wit da Hoodie,Lil Mosey,0.8827525
+A Boogie Wit da Hoodie,Young Thug,0.87964
+A Boogie Wit da Hoodie,J.I the Prince of N.Y,0.37181125
+Anderson .Paak,GoldLink,0.35801
+Anderson .Paak,NxWorries,0.37117
+Anderson .Paak,Noname,0.904695
+Anderson .Paak,Rejjie Snow,0.3667675
+Anderson .Paak,BJ The Chicago Kid,0.3672875
+Anderson .Paak,Mick Jenkins,0.385045
+Anderson .Paak,Buddy,0.3710425
+Anderson .Paak,SiR,0.37884
+Anderson .Paak,Phony Ppl,0.3589225
+Anderson .Paak,Rapsody,0.889335
+Anderson .Paak,D'Angelo,0.3486875
+Anderson .Paak,Terrace Martin,0.39506
+Anderson .Paak,Free Nationals,0.3634925
+Anderson .Paak,EARTHGANG,0.3980175
+Anderson .Paak,The Internet,0.8677975
+Anderson .Paak,Saba,0.364985
+Anderson .Paak,Smino,0.3635125
+Anderson .Paak,Rachel Bloom,0.38501
+Anderson .Paak,Thundercat,0.4032725
+Anderson .Paak,Duckwrth,0.884165
+Polo & Pan,Papooz,0.56624375
+Polo & Pan,Lewis OfMan,0.69002125
+Polo & Pan,Kazy Lambist,0.67734625
+Polo & Pan,Agar Agar,0.66294875
+Polo & Pan,Vendredi sur Mer,0.56422125
+Polo & Pan,Bleu Toucan,0.68084125
+Polo & Pan,Her,0.6550625
+Polo & Pan,Pépite,0.66779875
+Polo & Pan,Claire Laffut,0.65937375
+Polo & Pan,Flavien Berger,0.552994
+Polo & Pan,French 79,0.66119525
+Polo & Pan,L'Impératrice,0.64650375
+Polo & Pan,The Blaze,0.65622925
+Polo & Pan,Fakear,0.68502625
+Polo & Pan,Møme,0.5670095
+Polo & Pan,Muddy Monk,0.54867375
+Polo & Pan,Les Gordon,0.67806675
+Polo & Pan,Alice et Moi,0.57953375
+Polo & Pan,Voyou,0.55959875
+Polo & Pan,Juniore,0.58051325
+Tom Misch,Loyle Carner,0.61109125
+Tom Misch,Rejjie Snow,0.61400125
+Tom Misch,Jordan Rakei,0.60425125
+Tom Misch,Mr Jukes,0.58851875
+Tom Misch,Elder Island,0.61647975
+Tom Misch,Aaron Taylor,0.60742125
+Tom Misch,Charlotte Day Wilson,0.61079675
+Tom Misch,Ady Suleiman,0.60214125
+Tom Misch,Oscar Jerome,0.61195375
+Tom Misch,Nick Hakim,0.59468825
+Tom Misch,Barney Artist,0.61050875
+Tom Misch,NxWorries,0.58523375
+Tom Misch,Masego,0.36808375
+Tom Misch,Franc Moody,0.60697125
+Tom Misch,Free Nationals,0.59426625
+Tom Misch,Winston Surfshirt,0.61745625
+Tom Misch,Samm Henshaw,0.58670875
+Tom Misch,Hiatus Kaiyote,0.60582375
+Tom Misch,Brasstracks,0.60976125
+Tom Misch,Phony Ppl,0.60809375
+Baby Keem,Isaiah Rashad,0.87647375
+Baby Keem,IDK,0.86739375
+Baby Keem,Pi’erre Bourne,0.60506625
+Baby Keem,JID,0.86228375
+Baby Keem,Young Stoner Life,0.86797375
+Baby Keem,A$AP Mob,0.88051875
+Baby Keem,Westside Gunn,0.83518475
+Baby Keem,Young Nudy,0.86552125
+Baby Keem,Smino,0.85306425
+Baby Keem,Saba,0.86484125
+Baby Keem,Zack Fox,0.60901125
+Baby Keem,LUCKI,0.38717225
+Baby Keem,MadeinTYO,0.88741925
+Baby Keem,Cordae,0.85330375
+Baby Keem,Dreamville,0.88189375
+Baby Keem,Maxo Kream,0.87467575
+Baby Keem,Vince Staples,0.86773775
+Baby Keem,Thouxanbanfauni,0.35166775
+Baby Keem,JPEGMAFIA,0.85378775
+Baby Keem,Earl Sweatshirt,0.84163875
+Flume,The Jungle Giants,0.445525
+Flume,What So Not,0.468645
+Flume,RL Grime,0.46364125
+Flume,Alison Wonderland,0.47795625
+Flume,Golden Features,0.379865
+Flume,Hermitude,0.6831825
+Flume,Peking Duk,0.57762
+Flume,Thundamentals,0.4736875
+Flume,Northeast Party House,0.475515
+Flume,Just A Gent,0.47798625
+Flume,Crooked Colours,0.3704825
+Flume,Hayden James,0.4713725
+Flume,Cosmo's Midnight,0.4767075
+Flume,Mura Masa,0.36071
+Flume,Chet Faker,0.3834175
+Flume,PNAU,0.56983
+Flume,Whethan,0.48037625
+Flume,Snakehips,0.4873225
+Flume,Ekali,0.4686925
+Flume,AlunaGeorge,0.35645
+Frank Ocean,Childish Gambino,0.57194875
+Frank Ocean,Earl Sweatshirt,0.44319625
+Frank Ocean,"Tyler, The Creator",0.46745875
+Frank Ocean,A$AP Rocky,0.463238
+Frank Ocean,Vince Staples,0.46391525
+Frank Ocean,Pusha T,0.45212375
+Frank Ocean,Odd Future,0.448306
+Frank Ocean,Kevin Abstract,0.68496625
+Frank Ocean,BROCKHAMPTON,0.55302625
+Frank Ocean,Miguel,0.46232875
+Frank Ocean,Steve Lacy,0.33638375
+Frank Ocean,The Internet,0.56489375
+Frank Ocean,Joey BadaSS,0.42634625
+Frank Ocean,Mac Miller,0.46365625
+Frank Ocean,Kendrick Lamar,0.47307125
+Frank Ocean,JPEGMAFIA,0.4422405
+Frank Ocean,Jhené Aiko,0.54855875
+Frank Ocean,Freddie Gibbs,0.45095625
+Frank Ocean,Solange,0.67733425
+Frank Ocean,Chance the Rapper,0.46975875
+A$AP Rocky,Pusha T,0.73825
+A$AP Rocky,ScHoolboy Q,0.7382165
+A$AP Rocky,Vince Staples,0.609884
+A$AP Rocky,Flatbush Zombies,0.61037
+A$AP Rocky,Joey BadaSS,0.58169
+A$AP Rocky,Earl Sweatshirt,0.5979025
+A$AP Rocky,Freddie Gibbs,0.73309
+A$AP Rocky,Ab-Soul,0.6026125
+A$AP Rocky,Danny Brown,0.6006975
+A$AP Rocky,Chief Keef,0.7325975
+A$AP Rocky,A$AP Mob,0.74922
+A$AP Rocky,Denzel Curry,0.60691
+A$AP Rocky,Jay Rock,0.7394725
+A$AP Rocky,Kendrick Lamar,0.627855
+A$AP Rocky,Isaiah Rashad,0.6294025
+A$AP Rocky,Juicy J,0.74844
+A$AP Rocky,Curren$y,0.5919075
+A$AP Rocky,A$AP Ferg,0.755405
+A$AP Rocky,2 Chainz,0.7428475
+A$AP Rocky,Frank Ocean,0.488238
+Garden City Movement,Jadu Heart,0.3673355
+Garden City Movement,Acollective,0.866855
+Garden City Movement,J.Views,0.3534505
+Garden City Movement,ECHO,0.3695185
+Garden City Movement,iogi,0.8652075
+Garden City Movement,Assaf Amdursky,0.3377435
+Garden City Movement,Tomer Yeshayahu,0.3433625
+Garden City Movement,Leyli,0.36962
+Garden City Movement,Lucille Crew,0.3557
+Garden City Movement,Gon Ben Ari,0.8772675
+Garden City Movement,Buttering Trio,0.875825
+Garden City Movement,Noga Erez,0.85259
+Garden City Movement,theAngelcy,0.849205
+Garden City Movement,TATRAN,0.8460325
+Garden City Movement,Girafot,0.3680675
+Garden City Movement,The Uzi Navon Legacy,0.3509675
+Garden City Movement,Atar Mayner,0.371025
+Garden City Movement,Cohen,0.364395
+Garden City Movement,The Paz Band,0.341385
+Garden City Movement,Alon Eder,0.328595
+Mac Miller,A$AP Rocky,0.694018333
+Mac Miller,Pusha T,0.685293333
+Mac Miller,Childish Gambino,0.703455833
+Mac Miller,Freddie Gibbs,0.684655833
+Mac Miller,Frank Ocean,0.530322917
+Mac Miller,Isaiah Rashad,0.702818333
+Mac Miller,Earl Sweatshirt,0.679955833
+Mac Miller,Curren$y,0.678675833
+Mac Miller,Kid Cudi,0.697013333
+Mac Miller,Kendrick Lamar,0.706855833
+Mac Miller,Vince Staples,0.700715833
+Mac Miller,Kevin Abstract,0.706240833
+Mac Miller,ScHoolboy Q,0.696879583
+Mac Miller,Bas,0.702700833
+Mac Miller,"Tyler, The Creator",0.693360833
+Mac Miller,Joey BadaSS,0.672393333
+Mac Miller,Wiz Khalifa,0.8470925
+Mac Miller,Spillage Village,0.692288333
+Mac Miller,BROCKHAMPTON,0.689808333
+Mac Miller,Chance the Rapper,0.698805833
+Lil Uzi Vert,Gunna,0.7602825
+Lil Uzi Vert,Lil Yachty,0.7603875
+Lil Uzi Vert,Pi’erre Bourne,0.74871625
+Lil Uzi Vert,Young Nudy,0.6276425
+Lil Uzi Vert,SahBabii,0.75028625
+Lil Uzi Vert,Metro Boomin,0.62295875
+Lil Uzi Vert,Don Toliver,0.63481375
+Lil Uzi Vert,NAV,0.75403625
+Lil Uzi Vert,Lil Keed,0.754065
+Lil Uzi Vert,Kodak Black,0.75329
+Lil Uzi Vert,Yung Bans,0.62014
+Lil Uzi Vert,Comethazine,0.63577
+Lil Uzi Vert,Playboi Carti,0.6355875
+Lil Uzi Vert,Trippie Redd,0.7584325
+Lil Uzi Vert,UnoTheActivist,0.747875
+Lil Uzi Vert,Tay-K,0.62618875
+Lil Uzi Vert,21 Savage,0.62914875
+Lil Uzi Vert,Migos,0.62366
+Lil Uzi Vert,Blueface,0.5066725
+Lil Uzi Vert,Young Thug,0.75934
+Moi Je,Lewis OfMan,0.86593
+Moi Je,Bleu Toucan,0.86198
+Moi Je,Kazy Lambist,0.8563825
+Moi Je,Polo & Pan,0.84886375
+Moi Je,Papooz,0.354355
+Moi Je,Fellini Félin,0.83609
+Moi Je,Møme,0.8298875
+Moi Je,Jean Tonique,0.8782725
+Moi Je,French 79,0.79205625
+Moi Je,Vendredi sur Mer,0.35248
+Moi Je,Darius,0.3318175
+Moi Je,Kartell,0.8404925
+Moi Je,Cherokee,0.8491225
+Moi Je,CAPYAC,0.874485
+Moi Je,Camel Power Club,0.8834375
+Moi Je,The Blaze,0.791705
+Moi Je,Paradis,0.83433625
+Moi Je,Poom,0.3435625
+Moi Je,Her,0.81423125
+Moi Je,Fhin,0.80822625
+Chet Faker,Nick Murphy,0.343455
+Chet Faker,Marcus Marr,0.374585
+Chet Faker,Flume,0.3834175
+Chet Faker,Flight Facilities,0.36694625
+Chet Faker,Hermitude,0.3922475
+Chet Faker,Darius,0.3776925
+Chet Faker,Hayden James,0.385285
+Chet Faker,SAFIA,0.38052
+Chet Faker,Set Mo,0.3822725
+Chet Faker,SBTRKT,0.3757575
+Chet Faker,Matt Corby,0.3642725
+Chet Faker,The Jungle Giants,0.36982
+Chet Faker,Ball Park Music,0.362095
+Chet Faker,Northeast Party House,0.37742
+Chet Faker,Poolside,0.3695325
+Chet Faker,Mansionair,0.62706125
+Chet Faker,San Cisco,0.3792325
+Chet Faker,Thundamentals,0.380885
+Chet Faker,MØ,0.63296
+Chet Faker,WEKEED,0.1882825
+Daft Punk,Justice,0.6144575
+Daft Punk,Kavinsky,0.61044
+Daft Punk,Breakbot,0.6394975
+Daft Punk,Cassius,0.6196125
+Daft Punk,The Chemical Brothers,0.3370875
+Daft Punk,Digitalism,0.35199125
+Daft Punk,Ratatat,0.3780875
+Daft Punk,Vitalic,0.6176975
+Daft Punk,Metronomy,0.3680875
+Daft Punk,Chromeo,0.642185
+Daft Punk,deadmau5,0.35164
+Daft Punk,Gesaffelstein,0.32635375
+Daft Punk,Hot Chip,0.623345
+Daft Punk,Fatboy Slim,0.3263275
+Daft Punk,Empire of the Sun,0.36290875
+Daft Punk,Phoenix,0.35344
+Daft Punk,Röyksopp,0.359805
+Daft Punk,The Avalanches,0.34746
+Daft Punk,Jamiroquai,0.3779925
+Daft Punk,Sébastien Tellier,0.6188425
+Kendrick Lamar,ScHoolboy Q,0.62996875
+Kendrick Lamar,Pusha T,0.62556
+Kendrick Lamar,A$AP Rocky,0.627855
+Kendrick Lamar,Freddie Gibbs,0.619955
+Kendrick Lamar,Ab-Soul,0.749935
+Kendrick Lamar,Big Sean,0.63676625
+Kendrick Lamar,Jay Rock,0.757915
+Kendrick Lamar,2 Chainz,0.6318525
+Kendrick Lamar,J. Cole,0.74955375
+Kendrick Lamar,Isaiah Rashad,0.6405475
+Kendrick Lamar,Joey BadaSS,0.7241525
+Kendrick Lamar,Frank Ocean,0.49807125
+Kendrick Lamar,Childish Gambino,0.6324825
+Kendrick Lamar,Vince Staples,0.7510325
+Kendrick Lamar,Earl Sweatshirt,0.60954
+Kendrick Lamar,Bas,0.637805
+Kendrick Lamar,Danny Brown,0.6134825
+Kendrick Lamar,Big K.R.I.T.,0.7667225
+Kendrick Lamar,Chance the Rapper,0.7628
+Kendrick Lamar,Wale,0.62324
+Drake,Big Sean,0.57865375
+Drake,J. Cole,0.57624125
+Drake,Meek Mill,0.5868925
+Drake,Wale,0.5631425
+Drake,DJ Khaled,0.5695025
+Drake,Rick Ross,0.562965
+Drake,PARTYNEXTDOOR,0.5715325
+Drake,Tory Lanez,0.75228
+Drake,2 Chainz,0.5771575
+Drake,Jeremih,0.38002
+Drake,Young Thug,0.5697725
+Drake,Future,0.5959775
+Drake,Bryson Tiller,0.47525
+Drake,French Montana,0.566095
+Drake,NAV,0.77664625
+Drake,Kendrick Lamar,0.589375
+Drake,Migos,0.4772725
+Drake,Metro Boomin,0.57530625
+Drake,Gunna,0.5769075
+Drake,Ty Dolla $ign,0.4674425
+RÜFÜS DU SOL,The Kite String Tangle,0.38227275
+RÜFÜS DU SOL,Running Touch,0.37401375
+RÜFÜS DU SOL,Golden Features,0.38514125
+RÜFÜS DU SOL,Set Mo,0.395305
+RÜFÜS DU SOL,Peking Duk,0.63278125
+RÜFÜS DU SOL,Crooked Colours,0.39798625
+RÜFÜS DU SOL,Mansionair,0.62276125
+RÜFÜS DU SOL,Client Liaison,0.33495875
+RÜFÜS DU SOL,Hayden James,0.39791125
+RÜFÜS DU SOL,Flight Facilities,0.36684825
+RÜFÜS DU SOL,Holy Holy,0.38171125
+RÜFÜS DU SOL,SAFIA,0.37851125
+RÜFÜS DU SOL,Northeast Party House,0.37358575
+RÜFÜS DU SOL,The Rubens,0.36699375
+RÜFÜS DU SOL,PNAU,0.60726375
+RÜFÜS DU SOL,Vera Blue,0.35717675
+RÜFÜS DU SOL,Hermitude,0.38007375
+RÜFÜS DU SOL,BAYNK,0.35649325
+RÜFÜS DU SOL,The Jungle Giants,0.35983625
+RÜFÜS DU SOL,The Presets,0.60469875
+J. Cole,Big Sean,0.61835675
+J. Cole,Wale,0.61292625
+J. Cole,Kendrick Lamar,0.74955375
+J. Cole,Pusha T,0.61420625
+J. Cole,ScHoolboy Q,0.61785175
+J. Cole,2 Chainz,0.62142125
+J. Cole,Jay Rock,0.75408125
+J. Cole,Meek Mill,0.62662625
+J. Cole,A$AP Rocky,0.6024355
+J. Cole,Freddie Gibbs,0.61259375
+J. Cole,Nipsey Hussle,0.74119625
+J. Cole,Rick Ross,0.61073375
+J. Cole,Kid Cudi,0.6199955
+J. Cole,Isaiah Rashad,0.62132875
+J. Cole,Joey BadaSS,0.74372375
+J. Cole,Chance the Rapper,0.73481125
+J. Cole,YG,0.61818875
+J. Cole,Lupe Fiasco,0.74040375
+J. Cole,Curren$y,0.60998625
+J. Cole,Cordae,0.61942875
+The Weeknd,Frank Ocean,0.532300417
+The Weeknd,A$AP Rocky,0.3783125
+The Weeknd,PARTYNEXTDOOR,0.515451667
+The Weeknd,Childish Gambino,0.540404167
+The Weeknd,Miguel,0.540456667
+The Weeknd,Majid Jordan,0.672419583
+The Weeknd,Jeremih,0.539246667
+The Weeknd,Big Sean,0.549930417
+The Weeknd,Kendrick Lamar,0.3879775
+The Weeknd,6LACK,0.364185
+The Weeknd,Bryson Tiller,0.527744167
+The Weeknd,Roy Woods,0.539001667
+The Weeknd,Jhené Aiko,0.517566667
+The Weeknd,DJ Khaled,0.548941667
+The Weeknd,Travis Scott,0.37405125
+The Weeknd,SZA,0.540966667
+The Weeknd,Jaden,0.529286667
+The Weeknd,Brent Faiyaz,0.519966667
+The Weeknd,Belly,0.3863425
+The Weeknd,ScHoolboy Q,0.36921375
+Disclosure,AlunaGeorge,0.553884167
+Disclosure,SBTRKT,0.3756325
+Disclosure,Jamie xx,0.38016
+Disclosure,Gorgon City,0.713923333
+Disclosure,Duke Dumont,0.552629167
+Disclosure,Hayden James,0.556454167
+Disclosure,Flight Facilities,0.36737625
+Disclosure,Disciples,0.715225833
+Disclosure,Flume,0.3683125
+Disclosure,SG Lewis,0.547779167
+Disclosure,Maribou State,0.38128
+Disclosure,Cosmo's Midnight,0.3698125
+Disclosure,Darius,0.374
+Disclosure,Moon Boots,0.540419167
+Disclosure,Mura Masa,0.36962
+Disclosure,Folamour,0.3817325
+Disclosure,What So Not,0.3574475
+Disclosure,Bondax,0.38022
+Disclosure,Tchami,0.544901667
+Disclosure,KAYTRANADA,0.385105
+Childish Gambino,Frank Ocean,0.57194875
+Childish Gambino,Earl Sweatshirt,0.5614325
+Childish Gambino,Pusha T,0.6677325
+Childish Gambino,"Tyler, The Creator",0.576995
+Childish Gambino,Vince Staples,0.5742325
+Childish Gambino,A$AP Rocky,0.56776
+Childish Gambino,Chance the Rapper,0.6761325
+Childish Gambino,Odd Future,0.56423875
+Childish Gambino,Kendrick Lamar,0.5824825
+Childish Gambino,Mac Miller,0.5701225
+Childish Gambino,Spillage Village,0.5646025
+Childish Gambino,Joey BadaSS,0.5506
+Childish Gambino,ScHoolboy Q,0.66857875
+Childish Gambino,Lupe Fiasco,0.6577325
+Childish Gambino,Steve Lacy,0.34636
+Childish Gambino,N.E.R.D,0.4497625
+Childish Gambino,BROCKHAMPTON,0.6664175
+Childish Gambino,Kid Cudi,0.674555
+Childish Gambino,Kevin Abstract,0.5891275
+Childish Gambino,Isaiah Rashad,0.57621
+Kanye West,Big Sean,0.62725875
+Kanye West,Kid Cudi,0.6226825
+Kanye West,Kendrick Lamar,0.6336525
+Kanye West,Pusha T,0.62632
+Kanye West,A$AP Rocky,0.6225675
+Kanye West,ScHoolboy Q,0.61764875
+Kanye West,J. Cole,0.61347125
+Kanye West,Frank Ocean,0.36696625
+Kanye West,Joey BadaSS,0.60033
+Kanye West,Chance the Rapper,0.8816275
+Kanye West,Vince Staples,0.6147825
+Kanye West,KIDS SEE GHOSTS,0.5130075
+Kanye West,Isaiah Rashad,0.6315025
+Kanye West,Childish Gambino,0.6246075
+Kanye West,JAY-Z,0.6101
+Kanye West,Baby Keem,0.61949875
+Kanye West,Metro Boomin,0.60312375
+Kanye West,Earl Sweatshirt,0.6101225
+Kanye West,2 Chainz,0.6218875
+Kanye West,Freddie Gibbs,0.619705
+Jack Harlow,Kota the Friend,0.541969167
+Jack Harlow,Dreamville,0.497474167
+Jack Harlow,tobi lou,0.3426475
+Jack Harlow,Rexx Life Raj,0.363085
+Jack Harlow,YBN Nahmir,0.520196667
+Jack Harlow,Aminé,0.534786667
+Jack Harlow,PnB Rock,0.487732917
+Jack Harlow,THEY.,0.37163
+Jack Harlow,Lil Uzi Vert,0.542334167
+Jack Harlow,Cordae,0.540069167
+Jack Harlow,Tyla Yaweh,0.527411667
+Jack Harlow,6LACK,0.508041667
+Jack Harlow,Joyner Lucas,0.525196667
+Jack Harlow,Ty Dolla $ign,0.3370025
+Jack Harlow,Tory Lanez,0.554021667
+Jack Harlow,Lil Yachty,0.532034167
+Jack Harlow,Smino,0.539859167
+Jack Harlow,DDG,0.533489167
+Jack Harlow,Mustard,0.504161667
+Jack Harlow,Roy Woods,0.33378
+Aminé,Mick Jenkins,0.6676025
+Aminé,BROCKHAMPTON,0.671055
+Aminé,Buddy,0.4645125
+Aminé,GoldLink,0.76602
+Aminé,Injury Reserve,0.5462075
+Aminé,Smino,0.6797825
+Aminé,Duckwrth,0.473165
+Aminé,Kota the Friend,0.6858475
+Aminé,Saba,0.6796925
+Aminé,IDK,0.669615
+Aminé,JPEGMAFIA,0.6483
+Aminé,Tierra Whack,0.371275
+Aminé,EARTHGANG,0.670325
+Aminé,Joey Purp,0.4656725
+Aminé,Rejjie Snow,0.4745825
+Aminé,Noname,0.5754525
+Aminé,Lute,0.56308
+Aminé,Ameer Vann,0.4772675
+Aminé,Isaiah Rashad,0.683315
+Aminé,tobi lou,0.48364
+SBTRKT,Jamie xx,0.7704725
+SBTRKT,Mount Kimbie,0.61894
+SBTRKT,Sampha,0.369425
+SBTRKT,Gold Panda,0.609
+SBTRKT,Jacques Greene,0.626475
+SBTRKT,Little Dragon,0.7292825
+SBTRKT,George FitzGerald,0.60795225
+SBTRKT,Totally Enormous Extinct Dinosaurs,0.6224055
+SBTRKT,James Blake,0.35447975
+SBTRKT,Jai Paul,0.3601725
+SBTRKT,TOKiMONSTA,0.4903125
+SBTRKT,Lapalux,0.6000135
+SBTRKT,Nosaj Thing,0.48388725
+SBTRKT,Burial,0.459763
+SBTRKT,Joe Goddard,0.6217215
+SBTRKT,Shlohmo,0.471
+SBTRKT,Romare,0.500204
+SBTRKT,Caribou,0.728715
+SBTRKT,AlunaGeorge,0.504065
+SBTRKT,Four Tet,0.4894215
+Roosevelt,Goldroom,0.72787875
+Roosevelt,Poolside,0.570765
+Roosevelt,Miami Horror,0.7499725
+Roosevelt,Satin Jackets,0.5565175
+Roosevelt,Pool,0.363645
+Roosevelt,Great Good Fine Ok,0.434585
+Roosevelt,RAC,0.60960125
+Roosevelt,Franc Moody,0.558405
+Roosevelt,Holy Ghost!,0.567075
+Roosevelt,Amtrac,0.59106625
+Roosevelt,Jean Tonique,0.5458675
+Roosevelt,Cut Copy,0.56236
+Roosevelt,Darius,0.4606325
+Roosevelt,Zimmer,0.5287025
+Roosevelt,NEIL FRANCES,0.424975
+Roosevelt,Penguin Prison,0.69087
+Roosevelt,LEISURE,0.4279475
+Roosevelt,Brothertiger,0.43246
+Roosevelt,The Knocks,0.5670625
+Roosevelt,Kraak & Smaak,0.5461825
+ScHoolboy Q,Ab-Soul,0.651693036
+ScHoolboy Q,Freddie Gibbs,0.716434107
+ScHoolboy Q,Black Hippy,0.209170571
+ScHoolboy Q,Pusha T,0.86239625
+ScHoolboy Q,Flatbush Zombies,0.584139464
+ScHoolboy Q,Dom Kennedy,0.736321607
+ScHoolboy Q,Jay Rock,0.87482875
+ScHoolboy Q,Vince Staples,0.582030964
+ScHoolboy Q,Big K.R.I.T.,0.87941625
+ScHoolboy Q,Smoke DZA,0.639398036
+ScHoolboy Q,A$AP Rocky,0.577502214
+ScHoolboy Q,Isaiah Rashad,0.593894464
+ScHoolboy Q,Curren$y,0.779872679
+ScHoolboy Q,A$AP Twelvyy,0.436947321
+ScHoolboy Q,Danny Brown,0.566916964
+ScHoolboy Q,Joey BadaSS,0.563559464
+ScHoolboy Q,REASON,0.594559464
+ScHoolboy Q,Action Bronson,0.559690964
+ScHoolboy Q,Dizzy Wright,0.730701607
+ScHoolboy Q,2 Chainz,0.803192679
+Chance the Rapper,Donnie Trumpet & The Social Experiment,0.3647675
+Chance the Rapper,Joey BadaSS,0.643005
+Chance the Rapper,Ab-Soul,0.665745
+Chance the Rapper,Mick Jenkins,0.7785725
+Chance the Rapper,Vince Staples,0.66606
+Chance the Rapper,Phony Ppl,0.3521425
+Chance the Rapper,Noname,0.5924825
+Chance the Rapper,Aminé,0.5696025
+Chance the Rapper,ScHoolboy Q,0.67022875
+Chance the Rapper,Shelley FKA DRAM,0.5855875
+Chance the Rapper,Flatbush Zombies,0.5689
+Chance the Rapper,BJ The Chicago Kid,0.55814
+Chance the Rapper,Saba,0.664575
+Chance the Rapper,Domo Genesis,0.571695
+Chance the Rapper,Earl Sweatshirt,0.5585075
+Chance the Rapper,Pusha T,0.68039
+Chance the Rapper,Taylor Bennett,0.50288
+Chance the Rapper,Isaiah Rashad,0.588245
+Chance the Rapper,Joey Purp,0.4800675
+Chance the Rapper,Freddie Gibbs,0.5698275
+Seekae,Shigeto,0.35717525
+Seekae,Teebs,0.35030775
+Seekae,Lapalux,0.3619455
+Seekae,Shlohmo,0.35845575
+Seekae,Nosaj Thing,0.355196
+Seekae,Gold Panda,0.368485
+Seekae,Mount Kimbie,0.3642825
+Seekae,Baths,0.367989
+Seekae,Clams Casino,0.34955475
+Seekae,Rival Consoles,0.85197
+Seekae,Photay,0.3610385
+Seekae,TOKiMONSTA,0.3650125
+Seekae,Bearcubs,0.37557775
+Seekae,Lorn,0.35253825
+Seekae,Lone,0.35151475
+Seekae,Clark,0.352577875
+Seekae,Four Tet,0.357978
+Seekae,Machinedrum,0.366979
+Seekae,Lusine,0.3697575
+Seekae,Jacques Greene,0.37437975
+Pachanga Boys,Jürgen Paape,0.35756175
+Pachanga Boys,Justus Köhncke,0.34889375
+Pachanga Boys,Superpitcher,0.37499325
+Pachanga Boys,Michael Mayer,0.36259425
+Pachanga Boys,Matias Aguayo,0.33280125
+Pachanga Boys,Rebolledo,0.35476325
+Pachanga Boys,Maceo Plex,0.35013675
+Pachanga Boys,Rampa,0.3661575
+Pachanga Boys,&ME,0.3643025
+Pachanga Boys,Âme,0.36896825
+Pachanga Boys,The Rice Twins,0.168648125
+Pachanga Boys,DJ Koze,0.34416875
+Pachanga Boys,Mano Le Tough,0.35475375
+Pachanga Boys,Solomun,0.34994375
+Pachanga Boys,Adana Twins,0.34773825
+Pachanga Boys,Pional,0.36392875
+Pachanga Boys,Sascha Funke,0.35917025
+Pachanga Boys,Robag Wruhme,0.35042075
+Pachanga Boys,DAVID AUGUST,0.37855825
+Pachanga Boys,Mayburg feat. Ada,0.033186625
+Two Feet,Adam Jensen,0.683870833
+Two Feet,MISSIO,0.689965833
+Two Feet,Stephen,0.507374167
+Two Feet,grandson,0.509894167
+Two Feet,Bishop Briggs,0.684092083
+Two Feet,Bryce Fox,0.679333333
+Two Feet,TENDER,0.352835
+Two Feet,Black Atlass,0.3536875
+Two Feet,Jaymes Young,0.685568333
+Two Feet,Foreign Air,0.682224583
+Two Feet,Barns Courtney,0.501154167
+Two Feet,Dennis Lloyd,0.344785
+Two Feet,NoMBe,0.696585833
+Two Feet,Layto,0.36874
+Two Feet,SYML,0.525204167
+Two Feet,8 Graves,0.515039167
+Two Feet,Bohnes,0.516964167
+Two Feet,Sam Tinnesz,0.674098333
+Two Feet,Seafret,0.527347917
+Two Feet,Lewis Del Mar,0.694763333
+Hermitude,Flume,0.7581825
+Hermitude,Mura Masa,0.36971
+Hermitude,RÜFÜS DU SOL,0.38007375
+Hermitude,Young Franco,0.370325
+Hermitude,Hayden James,0.522025
+Hermitude,Set Mo,0.39344
+Hermitude,Peter Monk,0.3942675
+Hermitude,Ill Elements,0.36324125
+Hermitude,Golden Features,0.376825
+Hermitude,Carmada,0.38726125
+Hermitude,Odd Mob,0.3823475
+Hermitude,Nyxen,0.37809
+Hermitude,Peking Duk,0.51953
+Hermitude,Cosmo's Midnight,0.4968775
+Hermitude,Medasin,0.4917625
+Hermitude,Lastlings,0.37645875
+Hermitude,Jerry Folk,0.37618625
+Hermitude,SNBRN,0.508
+Hermitude,What So Not,0.62162
+Hermitude,Willaris. K,0.35470625
+Avoure,Khåen,0.3808535
+Avoure,Anderholm,0.393481
+Avoure,Massane,0.41954825
+Avoure,OCULA,0.35387975
+Avoure,Enamour,0.344580625
+Avoure,Jerro,0.42266875
+Avoure,Grigoré,0.433066
+Avoure,Solanca,0.41515
+Avoure,Yotto,0.3662525
+Avoure,Paraleven,0.387899
+Avoure,Cristoph,0.41103225
+Avoure,Rezident,0.41841875
+Avoure,Polar Inc.,0.3783275
+Avoure,Nox Vahn,0.35707575
+Avoure,Rylan Taggart,0.40100375
+Avoure,Falden,0.4407325
+Avoure,Kidnap,0.385593
+Avoure,Icarus,0.40357025
+Avoure,Durante,0.3917475
+Avoure,Luttrell,0.365608
+Mura Masa,Sam Gellaitry,0.34781875
+Mura Masa,Cosmo's Midnight,0.37385
+Mura Masa,Just A Gent,0.35995125
+Mura Masa,Louis The Child,0.370965
+Mura Masa,Medasin,0.605245
+Mura Masa,Whethan,0.61554625
+Mura Masa,Ekali,0.3431325
+Mura Masa,DROELOE,0.3595975
+Mura Masa,BAYNK,0.60963
+Mura Masa,SLUMBERJACK,0.3592325
+Mura Masa,Loyle Carner,0.36384
+Mura Masa,What So Not,0.3385975
+Mura Masa,Point Point,0.6085275
+Mura Masa,Cashmere Cat,0.34288
+Mura Masa,RL Grime,0.33217125
+Mura Masa,Louis Futon,0.61046
+Mura Masa,Nao,0.3589875
+Mura Masa,Elohim,0.620015
+Mura Masa,Jerry Folk,0.60538625
+Mura Masa,San Holo,0.35257
+The Blaze,Kazy Lambist,0.757455
+The Blaze,Fakear,0.774735
+The Blaze,Lewis OfMan,0.632155
+The Blaze,Møme,0.66327625
+The Blaze,French 79,0.7617615
+The Blaze,Polo & Pan,0.65622925
+The Blaze,Agar Agar,0.56018
+The Blaze,Les Gordon,0.77427975
+The Blaze,Acid Arab,0.34323425
+The Blaze,Flavien Berger,0.6611915
+The Blaze,Her,0.6848065
+The Blaze,Papooz,0.5392075
+The Blaze,Kidnap,0.46920475
+The Blaze,Kid Francescoli,0.65599025
+The Blaze,Parra for Cuva,0.676185
+The Blaze,Muddy Monk,0.55928875
+The Blaze,Paradis,0.66557175
+The Blaze,Kerala Dust,0.35791225
+The Blaze,Thylacine,0.7827935
+The Blaze,Monolink,0.37231325
+Sampha,SBTRKT,0.369425
+Sampha,Mount Kimbie,0.5962225
+Sampha,Jai Paul,0.3750775
+Sampha,Jamie xx,0.3613075
+Sampha,James Blake,0.87275375
+Sampha,JMSN,0.87030625
+Sampha,Jacques Greene,0.34430375
+Sampha,Moses Sumney,0.8674225
+Sampha,Blood Orange,0.871105
+Sampha,Ravyn Lenae,0.869005
+Sampha,Sango,0.86746875
+Sampha,Kelela,0.874775
+Sampha,Syd,0.8689825
+Sampha,Maribou State,0.6139475
+Sampha,Xavier Omär,0.8761575
+Sampha,River Tiber,0.84605125
+Sampha,Nick Hakim,0.85982875
+Sampha,Choker,0.875425
+Sampha,Mereba,0.877935
+Sampha,Charlotte Day Wilson,0.878585
+Moksi,Malaa,0.6739475
+Moksi,Dr. Fresch,0.77983
+Moksi,Dustycloud,0.57399
+Moksi,Mike Cervello,0.6683275
+Moksi,Dombresky,0.668535
+Moksi,Jauz,0.76764
+Moksi,BROHUG,0.7799975
+Moksi,VOLAC,0.57681
+Moksi,Tchami,0.6751845
+Moksi,Ephwurd,0.6784475
+Moksi,Cesqeaux,0.583115
+Moksi,Phlegmatic Dogs,0.568665
+Moksi,Aazar,0.57433
+Moksi,Sikdope,0.66526675
+Moksi,AC Slater,0.7678575
+Moksi,Chace,0.37198
+Moksi,Curbi,0.7716385
+Moksi,Drezo,0.56856275
+Moksi,CID,0.67736
+Moksi,Wax Motif,0.7700075
+Jungle,LEISURE,0.64295
+Jungle,Franc Moody,0.6239975
+Jungle,Darius,0.62414
+Jungle,Parcels,0.641725
+Jungle,NEIL FRANCES,0.6186625
+Jungle,Poolside,0.624915
+Jungle,Elder Island,0.60677875
+Jungle,Maribou State,0.6470025
+Jungle,Miami Horror,0.6447925
+Jungle,Shire T,0.5925575
+Jungle,Roosevelt,0.623355
+Jungle,Two Another,0.62633
+Jungle,Caribou,0.604515
+Jungle,Myd,0.3947175
+Jungle,Little Dragon,0.58943
+Jungle,Folamour,0.63461
+Jungle,HNNY,0.5988225
+Jungle,SAULT,0.60927
+Jungle,Rhye,0.58351625
+Jungle,Jordan Rakei,0.60271
+Franc Moody,CAPYAC,0.723763333
+Franc Moody,Parcels,0.546516667
+Franc Moody,Kazy Lambist,0.709920833
+Franc Moody,Two Another,0.535551667
+Franc Moody,Darius,0.687243333
+Franc Moody,Jean Tonique,0.8787525
+Franc Moody,Crazy P,0.718345833
+Franc Moody,Moon Boots,0.701735833
+Franc Moody,Elder Island,0.513157917
+Franc Moody,Poolside,0.883795
+Franc Moody,Kraak & Smaak,0.8729975
+Franc Moody,Kartell,0.8688325
+Franc Moody,Joe Hertz,0.702058333
+Franc Moody,Pat Lok,0.722588333
+Franc Moody,NEIL FRANCES,0.545409167
+Franc Moody,L'Impératrice,0.528961667
+Franc Moody,Miami Horror,0.8723525
+Franc Moody,LEISURE,0.551094167
+Franc Moody,Dabeull,0.880615
+Franc Moody,Total Giovanni,0.717045833
+The Homies,Peter $un,0.3881725
+The Homies,Isaac Zale,0.3758175
+The Homies,Ozer,0.3881325
+The Homies,Malz Monday,0.386395
+The Homies,Katori Walker,0.39036
+The Homies,Jordan Ward,0.356035
+The Homies,Femdot,0.3672675
+The Homies,Guapdad 4000,0.3680875
+The Homies,Swavay,0.3407275
+The Homies,Angelo Mota,0.3457975
+The Homies,Bblasian,0.8625675
+The Homies,Boslen,0.3606675
+The Homies,2forwOyNE,0.85851875
+The Homies,Childish Major,0.3943375
+The Homies,Taylor*,0.34179225
+The Homies,Free Party,0.38439375
+The Homies,MFnMelo,0.374825
+The Homies,Armani White,0.36321
+The Homies,Kai Ca$h,0.38916
+The Homies,Van Buren Records,0.36028
+Kid Cudi,Pusha T,0.743235
+Kid Cudi,Lupe Fiasco,0.732695
+Kid Cudi,ScHoolboy Q,0.7438965
+Kid Cudi,A$AP Rocky,0.6192505
+Kid Cudi,Big Sean,0.749753
+Kid Cudi,Earl Sweatshirt,0.6099875
+Kid Cudi,Vince Staples,0.6177365
+Kid Cudi,Mac Miller,0.61368
+Kid Cudi,Joey BadaSS,0.601395
+Kid Cudi,A$AP Mob,0.626295
+Kid Cudi,Freddie Gibbs,0.6164075
+Kid Cudi,Jay Rock,0.7487475
+Kid Cudi,Bas,0.62838
+Kid Cudi,KIDS SEE GHOSTS,0.512272
+Kid Cudi,Childish Gambino,0.749555
+Kid Cudi,Isaiah Rashad,0.62505
+Kid Cudi,Denzel Curry,0.609215
+Kid Cudi,Chance the Rapper,0.749335
+Kid Cudi,Kevin Abstract,0.6367025
+Kid Cudi,JID,0.619605
+KIDS SEE GHOSTS,Pusha T,0.76066
+KIDS SEE GHOSTS,Injury Reserve,0.50436325
+KIDS SEE GHOSTS,WZRD,0.265137125
+KIDS SEE GHOSTS,Danny Brown,0.75592875
+KIDS SEE GHOSTS,JPEGMAFIA,0.75404725
+KIDS SEE GHOSTS,Earl Sweatshirt,0.75171625
+KIDS SEE GHOSTS,Death Grips,0.498589375
+KIDS SEE GHOSTS,Westside Gunn,0.750159125
+KIDS SEE GHOSTS,Freddie Gibbs,0.75643375
+KIDS SEE GHOSTS,Madvillain,0.74854625
+KIDS SEE GHOSTS,Kevin Abstract,0.7739225
+KIDS SEE GHOSTS,Spellling,0.24728325
+KIDS SEE GHOSTS,Denzel Curry,0.7519725
+KIDS SEE GHOSTS,Saba,0.761615
+KIDS SEE GHOSTS,redveil,0.24791375
+KIDS SEE GHOSTS,Jay Electronica,0.75499625
+KIDS SEE GHOSTS,Vince Staples,0.75914225
+KIDS SEE GHOSTS,Odd Future,0.754873375
+KIDS SEE GHOSTS,The Alchemist,0.7639225
+KIDS SEE GHOSTS,JID,0.76049
